@@ -3,8 +3,8 @@
     --font-fm-main: 'Inter', sans-serif;
     --font-fm-accent: 'PressStart2P', fantasy;
     --font-size: 18px;
-    --inter-font-weight-text: 400;
-    --inter-font-weight-title: 700;
+    --font-weight-text: 400;
+    --font-weight-title: 700;
     --accent-font-weight-text: 400;
     --text-color: #000;
     --border-color: #000;
@@ -15,6 +15,7 @@
     --active-heart-color: #ff0000;
     --heart-contour-color: #000;
     --text-stroke-color: #fff;
+    --accent-color: #000000;
     --bg-image: repeating-linear-gradient(
       to right,
       #d3d3d3 0 2px,
